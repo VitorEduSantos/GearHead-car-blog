@@ -1,6 +1,6 @@
 # Desenvolvimento web Full Stack
 
-![Preview](.github/Preview.png)
+![Preview](.github/vitoredusantos.github.io_gearhead-car-blog_.png)
 
 > Curso Desenvolvimento Web Full Stack
 
@@ -8,6 +8,8 @@ Projeto construído baseado nas aulas do meu curso de desenvolvedor full stack d
 Criei esta página estática de um blog automotivo fictício para testar meus conhecimentos de HTML e CSS.
 
 obs: Imagens dos carros tirada do Pinterest!
+
+[🔗Clique aqui para acessar](https://vitoredusantos.github.io/gearhead-car-blog/)
 
 # 🛠Tecnologias
 
