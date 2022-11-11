@@ -11,8 +11,6 @@ body {
 
 #area-principal {
   width: 920px;
-  min-width: fit-content;
-  max-width: 1180px;
   margin: 0 auto;
 }
 
